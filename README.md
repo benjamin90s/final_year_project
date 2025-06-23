@@ -4,19 +4,6 @@
 
 This repository contains code, dataset information, and results for the project **Cracks Uncovered: Deep Learning-Based Segmentation of Structural Defects Using a Curated Real-World Dataset**. The aim of this project is to automatically segment building cracks from real-world images using state-of-the-art deep learning models, leveraging a curated and annotated dataset.
 
----
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Citation](#citation)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -32,7 +19,5 @@ This repository contains code, dataset information, and results for the project 
 **Note:** Due to licensing/size, the dataset is not directly included. For access, please contact the author.
 
 ---
-
-## Project Structure
 
 
